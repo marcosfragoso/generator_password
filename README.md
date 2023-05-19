@@ -13,3 +13,7 @@ Projeto de um gerador de senhas utilizando o framework Django. O usuário vai es
 * HTML
 * CSS
 ## Visualização do projeto
+### Determinar a quantidade de caracteres
+![Primeira página](img1.jpg)
+### Visualização da senha
+![Segunda página](img2.jpg)
